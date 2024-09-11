@@ -1,2 +1,0 @@
-# AMAZONclone
-AMAZONclone
